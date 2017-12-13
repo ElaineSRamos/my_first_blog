@@ -1,0 +1,40 @@
+.page-header {
+	background-color: #D0D1D6;
+	margin-top: 0;
+	padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:activate {
+	color: #ffffff;
+	
+	font-size: 36pt;
+	text-decoration: nome;
+}
+
+.content {
+	margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Lobster', cursive;
+}
+.date {
+	color: #2C4EE6;
+}
+.save {
+	float: right;
+}
+
+.post-form textarea, .post-form input {
+	width: 100%;
+}
+.post {
+	margin-bottom: #000000;
+
+}
+
+.post h1 a, .post h1 a:visited {
+	
+	color: #636366;
+}
+
