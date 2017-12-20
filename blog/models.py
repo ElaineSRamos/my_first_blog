@@ -40,4 +40,4 @@ class Image(models.Model):
 		Varias imagens podem conter dentro de um album"""
 		
 		class Meta:
-			ordering = ('album','titulo',)
+			ordering = ('album','titulo')
